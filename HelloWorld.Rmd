@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
-author: Tim Rademacher on behalf of <font color="#91b9a4"><b>TREE</b></font> lab members
-date: "06/04/2019"
+author: Tim Rademacher on behalf of the <font color="#91b9a4"><b>TREE</b></font>
+date: "Last updated on 2020/01/18"
 output: html_document
 ---
 
