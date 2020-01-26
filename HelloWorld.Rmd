@@ -47,7 +47,7 @@ All members are expected to behave in a respectful, professional manner whether 
 
 In addition to providing training, access to facilities and opportunities the <font color="#91b9a4"><b>TREE</b></font> lab is responsible for maintaining a leading research program. Our progress is constantly monitored and our funding will depend on productivity. Thus, every members efforts are of paramount importance to our success. You are expected to spend your time performing lab related research and evaluating and dicussing data in a professional manner. If you are not busy, we will try to find you a new productive task, but do not distract others. If you are away, your absence will be noticed. We believe in a positive cohesive work environment.
 
-The <font color="#91b9a4"><b>TREE</b></font> lab's core work hours are 09.00h to 17.00h and each member should try to overlap their shedule as much as possible, because it increases opportunities for us to communicate. Prolonged absence during cores hours, need to be justified and communicated (with the exception of field work and laboratory experiments).
+The <font color="#91b9a4"><b>TREE</b></font> lab's core work hours are 09.00h to 16.00h and each member should try to overlap their shedule as much as possible, because it increases opportunities for us to communicate. Prolonged absence during cores hours, need to be justified and communicated (with the exception of field work and laboratory experiments).
 
 If you prefer working remotely, that is a possibility, once you demonstrated that work is getting done. The desire to work remotely needs to be clearly communicated, so that timelines and goals can be agreed upon and monitored. Talk to your advisor if you want to work remotely.
 
@@ -82,9 +82,17 @@ Additional meetings can be scheduled as needed and you should feel free to stop 
 
 ### Leave and self-care
 
-We strive to provide a healthy and safe work environment for the entire lab and all its collaborators. Only you know what you need to maintain physical and mental health. Building breaks into your weekly routine and taking time to yourself is encouraged. If you are ever feeling in distress please reach out to your advisor or one of your lab mates as well as your health care provider. 
+We strive to provide a healthy and safe work environment for the entire lab and all its collaborators. Only you know what you need to maintain physical and mental health. Building breaks into your weekly routine and taking time to yourself is encouraged. If you are ever feeling in distress please reach out to your advisor or one of your lab mates as well as your health care provider. Academic research can be difficult, especially a PhD, is know to challenge mental health. Specific factors of academia that are responsible for mental health issues are:
 
-If you are sick or other conditions arise that will impact your ability to conduct research and/or paricipate fully in our lab, please communicate this directly to your advisor. Such communication will allow us to develop a plan for dealing with any issues and keeping you on track to the successful completion of your goals.
+- Low pay and quality of life issues, in particular when having to live in fairly expensive cities.
+- Feelings of isolation. We are often working on our own specific topic of research.
+- Uncertainty of our work. We try our best to minise risk, but some high-reward research avenue are inherently bound to higher uncertainties. 
+- Surprises in our work. Sometimes experiments do not work out or we have unexpected (sometime referred to as "negative") results. Research is rarely straight forward and more often than not more challenging than originally expected.
+- Burnout. Working long hours to make up for "lost" time (see previous point) and the resulting exaustion.
+
+Most PhD-students encounter these challenges at some point in one way or another. Take care off yourself to maintain good mental health. Although it may not feel like it at times, every academic (even those in the making) has the time and resources needed to be highly successful.
+
+If you are sick or other conditions arise that will impact your ability to conduct research and/or paricipate fully in our lab, please communicate this directly to your advisor. We will try to get you the support you need. Such communication will also allow us to develop a plan for dealing with any issues and keeping you on track to the successful completion of your goals.
 
 It is expected that all leave requests must be approved. Before you make travel plans, please discuss them with you advisor. Our core mission is to produce high quality science, hence we must ensure that plans properly covering for your absence are in place.  
 
@@ -92,7 +100,9 @@ When the university is closed, then the lab is likely closed. There are some exc
 
 ### Professionalism and email ettiquette
 
-We strongly believe in professional behaviour in the workplace. All individuals deserve respect. We support an environment where individuals feel able to perform their work activities to the best of their abilities. If you ever feel that you have been treated disrespectfully, please raise this immediately with your advisor.
+We strongly believe in professional behaviour in the workplace. All individuals deserve respect. We support an inclusive environment where individuals feel able to perform their work activities to the best of their abilities. Members that do not comply with our guidelines will discuss these guidelines with their advisor as a warning and are expected to comply with them thereafter. There are no exceptions. Nobodys gets a pass because their skills are in high demand, they are very productive, or they contribute much to the group in other ways.
+
+Some examples of harassment are offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention. If you ever feel that you have been treated disrespectfully or are being harassed, please raise this immediately with your advisor or university help services. All communication will be treated confidentially and you will be referred to the appropriate resources.
 
 We expect a response to emails in a timely manner (approximately one day). Even if you do not have an answer to questions posed in an email, you can still send an acknowledgement that you received the email and give an estimated timeframe by when you will have the answer. Please use email professionally. Be aware that sometimes individuals may be black carbon copied or that we sometimes accidentally hit "reply to all". Please copy your advisor on <font color="#91b9a4"><b>TREE</b></font> lab related emails. 
 
@@ -110,6 +120,13 @@ Securing funding is a key part of life for scientists in academia, governments a
 
 ### Authorship and collaborations
 
+<!-- Author order should be by contribution and alphebetically by surname for equal contributions. Each paper should include an author contribution statement. Manuscripts must be approved by all coauthors before submission. We publish open access, ideally Gold or Diamond but at least Green. Co-authors should get at least two weeks to comment on a paper before submission. Upon acceptance (or rejection) of your paper, you must inform all coauthors of the outcome as soon as possible and ensure all co-authors get chance to look at and comment on page proofs (N.B. many errors can be introduced into manuscripts by the journal at this stage). Note that after paper acceptance, final text and graphics files must be sent, in raw format (e.g. .docx, .ai.) to all co-authors for their records/use within 14 days, with an accepted version (the so-called ‘Author Accepted Manuscript’ or ‘AAM’) uploaded to college’s Symplectic system and an appropriate online archive (e.g. EarthArXiv, ESSOAr)
+
+ with manuscripts also uploaded to a relevant pre-print server (e.g. EarthArXiv, ESSOAr) prior to journal submission, review, and (hopefully) publication.
+ 
+ Upon completion of a project and where data confidentiality allows, all data should be placed on an appropriate repository with a DOI; in the case of publication, these data should be published alongside the manuscript on a repository such as figshare. A curated version of all datasets used during a project should be provided to made available on the Basins drive (\\ic.ac.uk\san\Basins; contact Chris and Becky for access to this space), in addition to being provided to Chris Jackson on a hard drive; the quality of the curation should be verified with Chris Jackson. All group members must also adhere to Imperial College’s Research Data Management Policy.
+
+--> 
 Anything leaving the lab needs your advisors approval (e.g., abstracts, workshop applications, proposals). Never submit any of these items without letting your advisor read/edit them first. If you are submitting an abstract to a meeting, please send it to your advisor <u>at least one week in advance</u>, so there is time to go back and forth on edits. If you are submitting a proposal it should be sent to your advisor <u>at least three weeks</u> in advance so we can edit it.
 
 Authorship is a priviledge and when you make a significant intellectual or experimental contribution to a project, then you will typically be an author on resulting manuscripts. However, there have often been considerable resources devoted to a project before you were involved and thus others may also deserve authorship. Authorship (including order of authors) is always discussed before a manuscript is submitted from the lab. As a general rule of thumb, to be considered for authorship you need to contribute substantially to at least three of the following:
