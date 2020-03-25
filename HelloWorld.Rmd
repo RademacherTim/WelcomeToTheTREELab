@@ -18,7 +18,7 @@ knitr::include_graphics(path = "../branding/logo/logo.001.png")
 
 ## <font color="#91b9a4"><b>TREE</b></font> lab mission
 
-The <font color="#91b9a4"><b>TREE</b></font> labs mission is to advance knowledge, lab members and the dissemination of knowledge with regard to land plants. Lab members are expected to follow the scientific method with utmost integrity. Although science is not about individuals or more precisely their egos, science fundamentally depends on them. In the <font color="#91b9a4"><b>TREE</b></font> lab, we aspire to pratice the best science for the benefit of human kind without forgetting that all lab members are also people. The <font color="#91b9a4"><b>TREE</b></font> lab strives to be inclusive, meaning that communication within the lab ought to be courteous and respectful at all times.
+The <font color="#91b9a4"><b>TREE</b></font> labs mission is to advance knowledge, lab members and the dissemination of knowledge with regard to land plants. Lab members are expected to follow the scientific method with utmost integrity. Although science is not about individuals or more precisely their egos, science fundamentally depends on them. In the <font color="#91b9a4"><b>TREE</b></font> lab, we aspire to practice the best science for the benefit of human kind without forgetting that all lab members are also people. The <font color="#91b9a4"><b>TREE</b></font> lab strives to be inclusive, meaning that communication within the lab ought to be courteous and respectful at all times.
 
 ## Welcome 
 
